@@ -1,0 +1,11 @@
+C:\Users\Ja\Documents\GitHub\DesignPatternsIntroduction\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.deps.json
+C:\Users\Ja\Documents\GitHub\DesignPatternsIntroduction\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.runtimeconfig.json
+C:\Users\Ja\Documents\GitHub\DesignPatternsIntroduction\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.runtimeconfig.dev.json
+C:\Users\Ja\Documents\GitHub\DesignPatternsIntroduction\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.dll
+C:\Users\Ja\Documents\GitHub\DesignPatternsIntroduction\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.pdb
+C:\Users\Ja\Documents\GitHub\DesignPatternsIntroduction\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.csprojAssemblyReference.cache
+C:\Users\Ja\Documents\GitHub\DesignPatternsIntroduction\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Ja\Documents\GitHub\DesignPatternsIntroduction\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\Ja\Documents\GitHub\DesignPatternsIntroduction\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\Ja\Documents\GitHub\DesignPatternsIntroduction\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.dll
+C:\Users\Ja\Documents\GitHub\DesignPatternsIntroduction\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.pdb
